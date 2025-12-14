@@ -171,11 +171,6 @@ Demonstrates:
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
-- 🌍 Portfolio: *(optional)*
-
----
-
-⭐ *If you are interested in Generative AI, Agents, and the future of intelligent systems — follow my journey.*
+- 💼 LinkedIn: *(www.linkedin.com/in/humayun-mhk-927407251)*
+- 📧 Email: *(humayunkhann47@gmail.com)*
 

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Humayun</h1>
 
 <h3 align="center">
-  Backend AI Engineer | Generative AI Systems | MLOps | Cloud Infrastructure
+  AI & Machine Learning Engineer | Generative AI Systems | LLMOps | MLOps
 </h3>
 
 <p align="center">

@@ -1,6 +1,5 @@
 # 👋 Muhammad Humayun
 ### AI & ML Engineer | LLMOps | MLOps | Backend AI Infrastructure
-
 *Building production-grade AI systems — LLMs, RAG pipelines, multi-agent orchestration, and cloud-native infrastructure.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/humayun-mhk-927407251)
@@ -26,7 +25,7 @@
 ### 🏆 Specialist
 | Domain | Skills |
 |--------|--------|
-| **Generative AI** | OpenAI GPT-4, Claude, Gemini, AWS Bedrock, LangChain, LangGraph |
+| **Generative AI** | OpenAI GPT-4, Claude, Gemini, AWS Bedrock, LangChain, LangGraph, LlamaIndex |
 | **RAG & Search** | Pinecone, Chroma, FAISS, semantic search, context augmentation |
 | **Backend** | FastAPI, async Python, RESTful APIs, JWT, PostgreSQL, MongoDB |
 | **Cloud & IaC** | AWS (EC2, S3, Lambda, ECS, ECR, CloudFront, Bedrock), Terraform |
@@ -52,11 +51,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ```
-AI/LLM      → LangChain, LangGraph, OpenAI, Claude, Bedrock, Pinecone, Chroma, FAISS
+AI/LLM      → LangChain, LangGraph, LlamaIndex, OpenAI, Claude, Bedrock, Pinecone, Chroma, FAISS
 CV          → OpenCV, Ultralytics YOLO, Detectron2, Albumentations, PIL, torchvision
-ML          → PyTorch, TensorFlow, scikit-learn, MLflow, DVC
+ML          → PyTorch, TensorFlow, scikit-learn, MLflow, DVC, Unsloth
 Backend     → FastAPI, Python, asyncio, PostgreSQL, MongoDB
 Cloud       → AWS (S3, Lambda, ECS, ECR, CloudFront), Terraform, Docker, GitHub Actions
 Automation  → N8N, Semgrep, Git
@@ -66,14 +64,27 @@ Automation  → N8N, Semgrep, Git
 
 ## 🎓 Experience
 
-**ARCH Technologies** *(Nov–Dec 2024)* — Generative AI: QLoRA fine-tuning, Ollama chatbot deployment
+**Arch Technologies** *(Dec 2025 – Mar 2026)* — Generative AI Intern
+- Built production data pipelines using quantized LLMs (Unsloth 4-bit)
+- Reduced latency by 60% and achieved 95% accuracy in RAG systems
+- Fine-tuned LLMs using QLoRA with 18% performance gain under 4GB VRAM
+- Integrated FAISS vector database and OpenAI Whisper for voice-enabled AI applications
+- Implemented modern Generative AI frameworks including LangChain and LlamaIndex
 
-**Elevvo NLP Internship** *(5 months)* — Transformers (BERT, T5, BART), 4 production NLP projects
+**InternPe** *(Jan 2026 – Apr 2026)* — AI/ML Intern
+- Worked on Machine Learning, Deep Learning, NLP, and Generative AI applications
+- Built and experimented with transformer-based AI models and workflows
+- Developed hands-on experience using Python and modern AI frameworks in real-world projects
+
+**Elevvo** *(Sep 2025 – Nov 2025)* — NLP Intern
+- Developed NLP systems for QA, summarization, and topic modeling using BERT and T5
+- Achieved 87% accuracy across NLP tasks
+- Improved data extraction efficiency by 40%
+- Reduced processing time by 65% using optimized preprocessing pipelines
 
 ---
 
 ## 📊 Stats
-
 | Metric | Count |
 |--------|-------|
 | GitHub Projects | 20+ |

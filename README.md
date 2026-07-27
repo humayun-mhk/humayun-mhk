@@ -3,7 +3,7 @@
 Final-year BS Computer Science student building practical AI products across **LLMs, RAG, AI agents, NLP, computer vision, voice AI, automation, backend systems, and MLOps**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mhumayun-ai-engineer.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayun-mhk-927407251/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/muhammad-humayun-927407251/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:humayunmhk3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/humayun-mhk)
 ![Profile Views](https://komarev.com/ghpvc/?username=humayun-mhk&label=Profile%20Views)
